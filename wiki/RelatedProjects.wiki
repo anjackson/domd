@@ -1,14 +1,13 @@
-#summary One-sentence summary of this page.
+#summary A summary of projects related to DOMD.
 
 = Introduction =
 
 Add your content here.
 
+= Metadata Standards =
 
-= Details =
+ * Dublin Core
 
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+= Interoperability =
+
   * [http://dataportability.org/ Data Portability]
