@@ -19,3 +19,9 @@ This page summarises some other projects related to this one.  The idea of DOMD 
   * [Planets]
   * [http://dataportability.org/ Data Portability]
     * [http://wiki.dataportability.org/display/dpmain/For+Developers Data Portability, for Developers]
+
+= Scalable Infrastructure =
+
+  * [http://preserv.eprints.org/ Preserv: Inspiration and Provision of Preservation Services for Digital Repositories]
+  * [http://news.oreilly.com/2008/06/gordon-mohr-takes-us-inside-th.html Gordon Mohr Takes Us Inside the Internet Archives]
+  * [http://developers.slashdot.org/article.pl?sid=08/06/25/148203&from=rss ./ - How Facebook Stores Billions of Photos]
