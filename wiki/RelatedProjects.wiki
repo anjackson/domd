@@ -4,10 +4,18 @@
 
 This page summarises some other projects related to this one.  The idea of DOMD is to facilitate adoption of existing standards and encourage interoperation between them
 
+= File Formats =
+
+ * PRONOM
+ * [http://en.wikibooks.org/wiki/Choosing_The_Right_File_Format Wikibook: Choosing The Right File Format].
+
+
 = Metadata Standards =
 
  * Dublin Core
 
 = Interoperability =
 
+  * [Planets]
   * [http://dataportability.org/ Data Portability]
+    * [http://wiki.dataportability.org/display/dpmain/For+Developers Data Portability, for Developers]
