@@ -17,6 +17,7 @@ This page summarises some other projects related to this one.  The idea of DOMD 
    * [http://www.iana.org/assignments/media-types/ MIME Types]
    * [http://www.nationalarchives.gov.uk/pronom/ PRONOM]
    * [http://hul.harvard.edu/gdfr/ Global Digital Format Registry]
+   * [http://developer.apple.com/documentation/Carbon/Conceptual/understanding_utis/utilist/chapter_4_section_1.html#//apple_ref/doc/uid/TP40001319-CH205-CHDIJFGJ Apple Uniform Type Identifiers]
 
 = Metadata Standards =
 
