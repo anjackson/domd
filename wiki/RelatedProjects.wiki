@@ -34,6 +34,12 @@ This page summarises some other projects related to this one.  The idea of DOMD 
   * Content Management Systems
     * [http://www.alfresco.com/ Alfresco] (embedded by Adobe)
     * [http://www.fedora-commons.org/documentation/3.0b1/userdocs/digitalobjects/objectModel.html Fedora]
+    * Anything with an OAI-PMH interface (see below).
+
+== Content Access Prototols ==
+The pipes that make the sources work.
+
+ * [http://www.openarchives.org/OAI/openarchivesprotocol.html OAI-PMH].
 
 = Scalable Infrastructure =
 
