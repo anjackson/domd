@@ -6,12 +6,16 @@ This page summarises some other projects related to this one.  The idea of DOMD 
 
 == Links ==
  * [http://en.wikipedia.org/wiki/Digital_preservation Wikipedia: Digital Preservation].
+ * [http://en.wikibooks.org/wiki/Choosing_The_Right_File_Format Wikibook: Choosing The Right File Format].
 
 = File Formats =
 
- * PRONOM
- * [http://en.wikibooks.org/wiki/Choosing_The_Right_File_Format Wikibook: Choosing The Right File Format].
-
+ * Format registries to include:
+   * A file extension registry?
+   * [http://www.darwinsys.com/file/ File Free File Command]
+   * [http://www.iana.org/assignments/media-types/ MIME Types]
+   * [http://www.nationalarchives.gov.uk/pronom/ PRONOM]
+   * [http://hul.harvard.edu/gdfr/ Global Digital Format Registry]
 
 = Metadata Standards =
 
