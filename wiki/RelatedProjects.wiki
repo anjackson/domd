@@ -28,6 +28,13 @@ This page summarises some other projects related to this one.  The idea of DOMD 
   * [http://dataportability.org/ Data Portability]
     * [http://wiki.dataportability.org/display/dpmain/For+Developers Data Portability, for Developers]
 
+= Digital Object Sources =
+
+  * The file system.
+  * Content Management Systems
+    * [http://www.alfresco.com/ Alfresco] (embedded by Adobe)
+    * [http://www.fedora-commons.org/documentation/3.0b1/userdocs/digitalobjects/objectModel.html Fedora]
+
 = Scalable Infrastructure =
 
   * [http://preserv.eprints.org/ Preserv: Inspiration and Provision of Preservation Services for Digital Repositories]
