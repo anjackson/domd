@@ -13,6 +13,7 @@ This page summarises some other projects related to this one.  The idea of DOMD 
  * Format registries to include:
    * A file extension registry?
    * [http://www.darwinsys.com/file/ File Free File Command]
+     * [http://sourceforge.net/projects/jmimemagic/ JMimeMagic] can help here.
    * [http://www.iana.org/assignments/media-types/ MIME Types]
    * [http://www.nationalarchives.gov.uk/pronom/ PRONOM]
    * [http://hul.harvard.edu/gdfr/ Global Digital Format Registry]
