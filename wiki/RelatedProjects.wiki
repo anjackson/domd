@@ -7,6 +7,12 @@ This page summarises some other projects related to this one.  The idea of DOMD 
 == Links ==
  * [http://en.wikipedia.org/wiki/Digital_preservation Wikipedia: Digital Preservation].
  * [http://en.wikibooks.org/wiki/Choosing_The_Right_File_Format Wikibook: Choosing The Right File Format].
+ * To Organise:
+    * [http://www.nationalarchives.gov.uk/aboutapps/PRONOM/tools.htm PRONOM links]
+    * [http://metadata.net/panic/ PANIC - Preservation webservices Architecture for Newmedia and Interactive Collections]
+    * [http://hul.harvard.edu/jhove/ JHOVE]
+    * [http://www.natlib.govt.nz/about-us/current-initiatives/past-initiatives/metadata-extraction-tool NLNZ Metadata Extraction Tool], http://meta-extractor.sourceforge.net/.
+    * 
 
 = File Formats =
 
