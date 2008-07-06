@@ -53,3 +53,4 @@ The pipes that make the sources work.
   * [http://news.oreilly.com/2008/06/gordon-mohr-takes-us-inside-th.html Gordon Mohr Takes Us Inside the Internet Archives]
   * [http://developers.slashdot.org/article.pl?sid=08/06/25/148203&from=rss ./ - How Facebook Stores Billions of Photos]
   * [http://developer.yahoo.com/blogs/hadoop/2008/07/apache_hadoop_wins_terabyte_sort_benchmark.html Yahoo: Apache Hadoop Wins Terabyte Sort Benchmark] (209s on 910 cores)
+  * [http://www.tummy.com/journals/entries/jafo_20080705_130814 ZFS Under Linux: A User Report].
