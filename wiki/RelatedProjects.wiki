@@ -92,4 +92,5 @@ list(resource_path, query_expr, accept_mime_type)
   * [http://developers.slashdot.org/article.pl?sid=08/06/25/148203&from=rss ./ - How Facebook Stores Billions of Photos]
   * [http://www.usenix.org/events/usenix08/tech/full_papers/elson/elson_html/index.html Handling Flash Crowds from your Garage]
   * [http://developer.yahoo.com/blogs/hadoop/2008/07/apache_hadoop_wins_terabyte_sort_benchmark.html Yahoo: Apache Hadoop Wins Terabyte Sort Benchmark] (209s on 910 cores)
+  * [http://wiki.apache.org/hadoop/AmazonEC2 Running Hadoop on Amazon EC2]
   * [http://www.tummy.com/journals/entries/jafo_20080705_130814 ZFS Under Linux: A User Report].
