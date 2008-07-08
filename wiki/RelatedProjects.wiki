@@ -64,6 +64,8 @@ The pipes that make the sources work.
     * [http://incubator.apache.org/abdera/ Apache Abdera] APL
     * [http://code.google.com/p/atomojo/ Atomojo server & client] NBSD
     * [http://www.tbray.org/ongoing/When/200x/2008/07/07/Atom atom-multipart]
+ * [http://www.fedora.info/documentation/ Fedora]
+    * Supports a range of APIs, some Fedora-specific, and OAI-PMH too.
 
 List, from http://discerning.com/topics/standards/resource_management.txt
 {{{
