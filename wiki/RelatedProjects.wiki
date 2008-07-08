@@ -67,6 +67,8 @@ The pipes that make the sources work.
  * [http://www.fedora.info/documentation/ Fedora]
     * Supports a range of APIs, some Fedora-specific, and OAI-PMH too.
 
+ * Plus, DB access, Amazon S3, DSpace, WebDav, CalDav, JCR, Atom, etc.
+
 List, from http://discerning.com/topics/standards/resource_management.txt
 {{{
 list(resource_path, query_expr, accept_mime_type)
