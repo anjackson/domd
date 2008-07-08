@@ -33,7 +33,8 @@ This page summarises some other projects related to this one.  The idea of DOMD 
  * [http://www.loc.gov/standards/premis/ PREMIS] - Preservation metadata.
  * [http://www.loc.gov/standards/mods/ MODS] - Metadata Object Description Schema (relations?)
  * [http://rfc.net/rfc1807.html RFC 1807] - Bibliographic metadata.
- * [http://libraries.mit.edu/guides/subjects/metadata/standards/onix.html ONIX]
+ * [http://libraries.mit.edu/guides/subjects/metadata/standards/onix.html ONIX]#
+ * [http://libraries.mit.edu/guides/subjects/metadata/standards.html MIT Selected Metadata Standards] and notes therein contain lots of information.  There are clearly metadata standards for different classes of data and metadata. 
 
 
 = Interoperability =
