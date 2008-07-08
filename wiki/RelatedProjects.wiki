@@ -27,6 +27,14 @@ This page summarises some other projects related to this one.  The idea of DOMD 
 = Metadata Standards =
 
  * Dublin Core
+    * Note finding that [http://libtechissues.blogspot.com/2006/12/digital-preservation-using-oai-pmh-as.html dc.identifier is not an unambiguous identifier for that which should be preserved, as it may point to a derived representation].
+ * [http://www.loc.gov/marc/ MARC] - Bibliographic, authority and related metadata.
+ * [http://www.loc.gov/standards/mets/ METS] - a container/wrapper?
+ * [http://www.loc.gov/standards/premis/ PREMIS] - Preservation metadata.
+ * [http://www.loc.gov/standards/mods/ MODS] - Metadata Object Description Schema (relations?)
+ * [http://rfc.net/rfc1807.html RFC 1807] - Bibliographic metadata.
+ * [http://libraries.mit.edu/guides/subjects/metadata/standards/onix.html ONIX]
+
 
 = Interoperability =
 
@@ -45,12 +53,42 @@ This page summarises some other projects related to this one.  The idea of DOMD 
 == Content Access Prototols ==
 The pipes that make the sources work.
 
- * [http://www.openarchives.org/OAI/openarchivesprotocol.html OAI-PMH].
+ * [http://www.openarchives.org/OAI/openarchivesprotocol.html OAI-PMH], see [http://xml.coverpages.org/oams.html this overview].
+    * [http://www.openarchives.org/OAI/1.0/openarchivesprotocol.htm#appendix%201 Attaching DC, RFC 1807 or MARC metadata]
+ * [AtomPub]
+    * [http://atomserver.codehaus.org/index.html AtomServer], [http://www.infoq.com/articles/atomserver AtomServer article], APL
+    * [http://incubator.apache.org/abdera/ Apache Abdera] APL
+    * [http://code.google.com/p/atomojo/ Atomojo server & client] NBSD
+    * [http://www.tbray.org/ongoing/When/200x/2008/07/07/Atom atom-multipart]
+
+List, from http://discerning.com/topics/standards/resource_management.txt
+{{{
+list(resource_path, query_expr, accept_mime_type)
+  these kinds of formats
+    HXDLG http://hdlg.sourceforge.net/ xmlns=http://www.hdlg.info/XML/filesystem
+    manifest.xml xmlns=http://openoffice.org/2001/manifest
+    atom:feed
+    "application/rss+xml revision=http://purl.org/rss/1.0/"
+    RMP (builtin)
+    Web Collections http://www.w3.org/TR/NOTE-XMLsubmit
+    OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/static-repository"
+  TODO: RDDL http://www.rddl.org/rddl2 (explain what namespaces mean) and http://www.w3.org/2001/tag/doc/nsDocuments/
+  simply lists all metadata objects for all immediate children,
+  in a XML response wrapper
+     <collection xmlns="http://gupe.org/rmp" path="some/resource_path">
+       <collection name="fred" ...>
+         <atom:entry>...</atom:entry>
+       </collection>
+       <data name="fred/xml">
+       </data>
+     </collection>
+}}}
 
 = Scalable Infrastructure =
 
   * [http://preserv.eprints.org/ Preserv: Inspiration and Provision of Preservation Services for Digital Repositories]
   * [http://news.oreilly.com/2008/06/gordon-mohr-takes-us-inside-th.html Gordon Mohr Takes Us Inside the Internet Archives]
   * [http://developers.slashdot.org/article.pl?sid=08/06/25/148203&from=rss ./ - How Facebook Stores Billions of Photos]
+  * [http://www.usenix.org/events/usenix08/tech/full_papers/elson/elson_html/index.html Handling Flash Crowds from your Garage]
   * [http://developer.yahoo.com/blogs/hadoop/2008/07/apache_hadoop_wins_terabyte_sort_benchmark.html Yahoo: Apache Hadoop Wins Terabyte Sort Benchmark] (209s on 910 cores)
   * [http://www.tummy.com/journals/entries/jafo_20080705_130814 ZFS Under Linux: A User Report].
