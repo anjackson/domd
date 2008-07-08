@@ -35,6 +35,7 @@ This page summarises some other projects related to this one.  The idea of DOMD 
  * [http://rfc.net/rfc1807.html RFC 1807] - Bibliographic metadata.
  * [http://libraries.mit.edu/guides/subjects/metadata/standards/onix.html ONIX]#
  * [http://libraries.mit.edu/guides/subjects/metadata/standards.html MIT Selected Metadata Standards] and notes therein contain lots of information.  There are clearly metadata standards for different classes of data and metadata.
+   * [http://www.loc.gov/standards/mix/ Z39.87 Data dictionary - Technical Metadata for Digital Still Images (MIX)]
 
 [http://stephesblog.blogs.com/my_weblog/2008/04/a-standards-pri.html A Standards Primer - Understanding Technology Standardization Efforts].
 
